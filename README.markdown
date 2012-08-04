@@ -4,9 +4,10 @@ Using Ushahidi platform to help enhance public services in egypt
 
 Database setup:
 ---------------
-user: root
-pass: root
-db: ushahidi
+* user: root
+* pass: root
+* db  : ushahidi
+
 then, import the database from morsiwatch/sql/ushahidi_morsiwatch.sql
 
 
