@@ -1,5 +1,18 @@
-Ushahidi Platform
-=================
+MorsiWatch:
+===========
+Using Ushahidi platform to help enhance public services in egypt
+
+Database setup:
+---------------
+user: root
+pass: root
+db: ushahidi
+then, import the database from morsiwatch/sql/ushahidi_morsiwatch.sql
+
+
+
+About Ushahidi Platform
+-----------------------
 The Ushahidi Platform is an open source web application for information collection, vizualisation and interactive 
 mapping. It allows people to collect and share their own stories using various mediums such
 as SMS, Web Forms, Email or Twitter. For more information about the platform and use cases (case studies) visit: http://www.ushahidi.com
