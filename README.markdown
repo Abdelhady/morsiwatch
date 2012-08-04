@@ -2,7 +2,7 @@ MorsiWatch:
 ===========
 Using Ushahidi platform to help enhance public services in egypt
 
-Database setup:
+Database setup: 
 ---------------
 user: root
 pass: root
